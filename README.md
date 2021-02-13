@@ -57,5 +57,9 @@ $ sudo pacman -S ripgrep
 $ sudo pacman -S editorconfig-core-c
 ```
 
-**PlugInstall**
+**PlugInstall**  
 Open the `~/.dotfiles/vim/Plugfile.vim` and then run `:PlugInstall`
+
+```
+$ reboot
+```
